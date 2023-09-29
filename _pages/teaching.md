@@ -3,8 +3,8 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-redirect from:
-/teaching
+redirect_from:
+  - /teaching
 ---
 
 {% include base_path %}
