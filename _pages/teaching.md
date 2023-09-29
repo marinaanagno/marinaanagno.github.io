@@ -7,6 +7,8 @@ redirect from:
 /teaching
 ---
 
+{% include base_path %}
+
 - University of Bristol, *Linear Aglebra* (September 2023 - Present)
 - Private tutoring (November 2023 - April 2023)
 - MyTutor (December 2020 - September 2022)
