@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Marina Anagnostopoulou-Merkouri, Peter J. Cameron, and Enoch Suleiman. ["Pre-primitive permutation groups"](https://www.sciencedirect.com/science/article/pii/S0021869323004593). Journal of Algebra, December 2023.
+- Marina Anagnostopoulou-Merkouri and Peter J. Cameron. ["Association Schemes with given stratum dimensions: on a paper of Peter M. Neumann"](https://arxiv.org/abs/2208.04049), to appear in Algebraic combinatorics.
+- Marina Anagnostopoulou-Merkouri, James Mitchell, and Maria Tsalakou. ["Computing the congruences of a finite semigroup or monoid"](https://arxiv.org/abs/2302.06295), submitted.
+- Marina Anagnostopoulou-Merkouri, Zachary Mesyan, and James Mitchell. ["Properties of congruence latttices of graph inverse semigroups"](https://arxiv.org/abs/2108.08277), to appear in International Journal of Algebra and Computation.
