@@ -12,4 +12,6 @@ I am a first year PhD student at the [University of Bristol](https://www.bristol
 
 Before coming to Bristol I completed my undergraduate degree at the [University of St Andrews](https://www.st-andrews.ac.uk/mathematics-statistics/). My masters project was on the O'Nan-Scott theorem and base sizes of primitive permutation groups, supervised by Prof. Colva Roney-Dougal.
 
+For more information about my research and teaching, please se the [Publications](https://academicpages.github.io/publications), [CV](https://academicpages.github.io/cv), [Talks]([/talks](https://academicpages.github.io/talks)), and [Teaching](https://academicpages.github.io/teaching) pages.
+
 Email: marina.anagnostopoulou-merkouri@bristol.ac.uk
