@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Marina Anagnostopoulou-Merkouri, Peter J. Cameron, and Enoch Suleiman. ["Pre-primitive permutation groups"](https://www.sciencedirect.com/science/article/pii/S0021869323004593). *Journal of Algebra, December 2023*.
-- Marina Anagnostopoulou-Merkouri and Peter J. Cameron. ["Association Schemes with given stratum dimensions: on a paper of Peter M. Neumann"](https://arxiv.org/abs/2208.04049). *To appear in Algebraic Combinatorics*.
-- Marina Anagnostopoulou-Merkouri, James Mitchell, and Maria Tsalakou. ["Computing the congruences of a finite semigroup or monoid"](https://arxiv.org/abs/2302.06295). *Submitted*.
-- Marina Anagnostopoulou-Merkouri, Zachary Mesyan, and James Mitchell. ["Properties of congruence latttices of graph inverse semigroups"](https://arxiv.org/abs/2108.08277). *To appear in International Journal of Algebra and Computation*.
+4. [Computing the congruences of a finite semigroup or monoid](https://arxiv.org/abs/2302.06295). (joint with James Mitchell and Maria Tsalakou) *Submitted*.
+3. [Pre-primitive permutation groups.](https://doi.org/10.1016/j.jalgebra.
+2023.09.012) In: Journal of Algebra 636 (Dec. 2023), pp. 695–715. doi: 10.1016/j.jalgebra.
+2023.09.012. (joint with Peter J. Cameron and Enoch Suleiman)
+2. [Association Schemes with given stratum dimensions: on a paper of Peter M. Neumann](https://arxiv.org/abs/2208.04049). *To appear in Algebraic Combinatorics*. (joint with Peter J. Cameron)
+1. [Properties of congruence latttices of graph inverse semigroups](https://arxiv.org/abs/2108.08277). *To appear in International Journal of Algebra and Computation*. (joint with Zachary Mesyan and James Mitchell)
