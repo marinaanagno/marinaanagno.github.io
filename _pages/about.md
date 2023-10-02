@@ -14,8 +14,8 @@ Before coming to Bristol I completed my undergraduate degree at the [University 
 
 For more information about my research and teaching, please see the [Publications](https://marinaanagno.github.io/publications), [CV](https://marinaanagno.github.io/cv), [Talks](https://marinaanagno.github.io/talks), and [Teaching](https://marinaanagno.github.io/teaching) pages.
 
-Email: marina.anagnostopoulou-merkouri@bristol.ac.uk
+**Email:** marina.anagnostopoulou-merkouri@bristol.ac.uk
 
-Address: Fry Building, School of Mathematics, University of Bristol, Woodland Rd, Bristol, BS8 1UG.
+**Address:** Fry Building, School of Mathematics, University of Bristol, Woodland Rd, Bristol, BS8 1UG.
 
-Office: 1.23, Fry Building.
+**Office:** 1.23, Fry Building.
