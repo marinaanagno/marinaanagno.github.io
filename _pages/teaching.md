@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Undergraduate teaching
-======
+###Undergraduate teaching
+
 
 I am currently involved in tutoring and homework marking for first year undergraduate students. In the academic year 2023-24 I am tutoring:
 
 - MATH10015 Linear Aglebra\\
   Course description: [Module webpage](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=MATH10015)
 
-School tutoring
-======
+###School tutoring
+
 
 During my undergraduate I was tutoring school pupils part time both privately and through the following organisations:
 
