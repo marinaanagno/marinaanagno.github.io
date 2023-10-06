@@ -9,8 +9,7 @@ author_profile: true
 joint with James Mitchell and Maria Tsalakou\\
 30 pages, submitted.
 
-[3] [Pre-primitive permutation groups](https://doi.org/10.1016/j.jalgebra.\\
-2023.09.012) \\
+[3] [Pre-primitive permutation groups](https://www.sciencedirect.com/science/article/pii/S0021869323004593) \\
 joint with Peter J. Cameron and Enoch Suleiman\\
 **Journal of Algebra** 636 (Dec. 2023), pp. 695–715. 
 
