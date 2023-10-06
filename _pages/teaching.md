@@ -14,7 +14,7 @@ Undergraduate teaching
 
 I am currently involved in tutoring and homework marking for first year undergraduate students. In the academic year 2023-24 I am tutoring:
 
-- MATH10015 Linear Aglebra (September 2023 - May 2024)
+- MATH10015 Linear Aglebra (September 2023 - May 2024)\\
   Course description: [Module webpage](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=MATH10015)
 
 School tutoring
