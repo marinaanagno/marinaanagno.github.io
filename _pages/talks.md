@@ -14,7 +14,7 @@ redirect_from:
 University of Bristol\\
 November 2023
 
-[5]**Seminars on groups and graphs, SUSTech**\\
+[5] **Seminars on groups and graphs, SUSTech**\\
 *New properties of permutation groups*\\
 Southern University of Science and Technology (SUSTech), Shenzhen, China (Online)\\
 October 2023
