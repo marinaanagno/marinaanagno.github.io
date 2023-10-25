@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [6] **Bristol Postgraduate Seminar**\\
-*New properties of permutation groups*\\
+*Permutation groups and Galois' confusion*\\
 University of Bristol\\
 November 2023
 
