@@ -38,4 +38,12 @@ November 2022
 *Congruence lattices of finite graph inverse semigroups*\\
 University of Greenwich (Online)\\
 February 2022
+
+**Non-mathematical talks**
+
+[1] **Underrepresented genders in mathematics** \\
+*A week in the life of a PhD student (BeReal edition)* \\
+University of Bristol \\
+November 2023
+
   
