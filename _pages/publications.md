@@ -16,9 +16,8 @@ joint with Peter J. Cameron and Enoch Suleiman\\
 
 [2] [Association Schemes with given stratum dimensions: on a paper of Peter M. Neumann](https://arxiv.org/abs/2208.04049)\\
 joint with Peter J. Cameron\\
-**Algebraic Combinatorics** \\
+**Algebraic Combinatorics** Volume 6 (2023) no. 5, pp. 1189-1210 \\
 24 pages, to appear
-
 
 [1] [Properties of congruence latttices of graph inverse semigroups](https://arxiv.org/abs/2108.08277) \\
 joint with Zachary Mesyan and James Mitchell\\
