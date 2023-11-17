@@ -17,7 +17,7 @@ joint with Peter J. Cameron and Enoch Suleiman\\
 joint with Peter J. Cameron\\
 **Algebraic Combinatorics** Volume 6 (2023) no. 5, pp. 1189-1210
 
-[1] [Properties of congruence latttices of graph inverse semigroups](https://arxiv.org/abs/2108.08277) \\
+[1] [Properties of congruence lattices of graph inverse semigroups](https://arxiv.org/abs/2108.08277) \\
 joint with Zachary Mesyan and James Mitchell\\
 **International Journal of Algebra and Computation**. \\
 24 pages, to appear
