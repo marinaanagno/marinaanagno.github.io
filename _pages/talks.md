@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[7] **Bristol Junior Geometry Seminar (BRIJGES)**\\
-*The regularity number of a finite group*\\
-University of Bristol\\
-February 2024
-
 [6] **Bristol Postgraduate Seminar**\\
 *Permutation groups and Galois' confusion*\\
 University of Bristol\\
