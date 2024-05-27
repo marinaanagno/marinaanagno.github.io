@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+[5] [On the regularity number of a finite group and other base-related invariants](https://arxiv.org/abs/2405.15300) \\
+joint with Timothy C. Burness\\
+52 pages, submitted.\\
+[Supplementary file](https://seis.bristol.ac.uk/~tb13602/docs/regcomp.pdf)
+
 [4] [Computing finite index congruences of finitely presented semigroups and monoids](https://arxiv.org/abs/2302.06295) \\
 joint with Reinis Cirpons, James D. Mitchell and Maria Tsalakou\\
 50 pages, submitted.
