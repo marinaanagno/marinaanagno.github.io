@@ -24,5 +24,4 @@ joint with Peter J. Cameron\\
 
 [1] [Properties of congruence lattices of graph inverse semigroups](https://arxiv.org/abs/2108.08277) \\
 joint with Zachary Mesyan and James D. Mitchell\\
-**International Journal of Algebra and Computation**. \\
-24 pages, to appear
+**International Journal of Algebra and Computation** Vol. 34, No. 03, pp. 371-396 (2024)
