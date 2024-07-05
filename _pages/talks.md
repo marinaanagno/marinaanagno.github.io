@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+[9] **Postgraduate Group Theory Seminar**\\
+*The regularity number of a finite group*\\
+University of Birmingham\\
+July 2024
+
+[8] **Groups in Florence IV**\\
+*The regularity number of a finite group* [Slides](/files/Florence_M_Anagnostopoulou-Merkouri.pdf)\\
+Università degli Studi di Firenze\\
+July 2024
+
 [7] **Bristol Junior Geometry Seminar (BRIJGES)**\\
 *The regularity number of a finite group*\\
 University of Bristol\\
