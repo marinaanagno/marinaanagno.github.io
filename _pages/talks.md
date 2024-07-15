@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [9] **Postgraduate Group Theory Seminar**\\
-*The regularity number of a finite group*\\
+*The regularity number of a finite group* [Slides](/files/PGTC_M_Anagnostopoulou-Merkouri.pdf)\\
 University of Birmingham\\
 July 2024
 
