@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 [11] **Topics in Group Theory - on the occasion of Andrea Lucchini's 60th(+) birthday**\\
-*The regularity number of a finite group* \\
+*The regularity number of a finite group* [Slides](/files/Padova_M_Anagnostopoulou-Merkouri.pdf)\\
 Università degli Studi di Padova\\
 September 2024
 
 [10] **Heilbronn HDP event**\\
-*The regularity number of a finite group* \\
+*The regularity number of a finite group* [Slides](/files/Marina_HDP.pdf)\\
 University of Bristol\\
 September 2024
 
