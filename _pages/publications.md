@@ -7,7 +7,7 @@ author_profile: true
 
 [6] [Permutation groups, partition lattices and block structures](https://arxiv.org/abs/2409.10461) \\
 joint with R.A. Bailey and Peter J. Cameron\\
-49 pages, submitted.\\
+49 pages, submitted.
 
 [5] [On the regularity number of a finite group and other base-related invariants](https://arxiv.org/abs/2405.15300) \\
 joint with Timothy C. Burness\\
