@@ -15,7 +15,7 @@ joint with Reinis Cirpons, James D. Mitchell and Maria Tsalakou\\
 
 [4] [On the regularity number of a finite group and other base-related invariants](https://arxiv.org/abs/2405.15300) \\
 joint with Timothy C. Burness\\
-**Journal of the London Mathematical Society**
+**Journal of the London Mathematical Society**\\
 52 pages, to appear.\\
 [Supplementary file](https://seis.bristol.ac.uk/~tb13602/docs/regcomp.pdf)
 
