@@ -7,16 +7,15 @@ author_profile: true
 
 [6] [Permutation groups, partition lattices and block structures](https://arxiv.org/abs/2409.10461) \\
 joint with R.A. Bailey and Peter J. Cameron\\
-49 pages, submitted.
+50 pages, submitted.
 
 [5] [Computing finite index congruences of finitely presented semigroups and monoids](https://arxiv.org/abs/2302.06295) \\
 joint with Reinis Cirpons, James D. Mitchell and Maria Tsalakou\\
 50 pages, submitted.
 
-[4] [On the regularity number of a finite group and other base-related invariants](https://arxiv.org/abs/2405.15300) \\
+[4] [On the regularity number of a finite group and other base-related invariants]([https://arxiv.org/abs/2405.15300](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70035)) \\
 joint with Timothy C. Burness\\
-**Journal of the London Mathematical Society**\\
-52 pages, to appear.\\
+**Journal of the London Mathematical Society** 110 (2024), e70035, 65 pp.
 [Supplementary file](https://seis.bristol.ac.uk/~tb13602/docs/regcomp.pdf)
 
 [3] [Pre-primitive permutation groups](https://www.sciencedirect.com/science/article/pii/S0021869323004593) \\
