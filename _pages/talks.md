@@ -14,17 +14,17 @@ redirect_from:
 University of Manchester\\
 March 2024
 
-[14] **Warwick Algebra Seminar**
+[14] **Warwick Algebra Seminar**\\
 *The regularity number of a finite group*\\
 University of Warwick\\
 March 2024
 
-[13] **Bristol Combinatorics Seminar**
+[13] **Bristol Combinatorics Seminar**\\
 *Permutation groups, partition lattices, and block structures*\\
 University of Bristol\\
 February 2024
 
-[12] **Junior London Algebra Colloquium**
+[12] **Junior London Algebra Colloquium**\\
 *The regularity number of a finite group*\\
 Imperial College London\\
 October 2024
