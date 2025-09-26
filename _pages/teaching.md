@@ -24,7 +24,7 @@ I will also be helping as a demonstrator for the module:
 
 In previous years I tutored:
 
--- MATH10027 Introduction to Pure Mathematics\\
+- MATH10027 Introduction to Pure Mathematics\\
   Course description: [Module webpage](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa;jsessionid=C69EF04FF22E15A95BFD721E43F2CFC3?ayrCode=24%2F25&unitCode=MATH10027)
 
 - MATH10015 Linear Aglebra\\
