@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+[17] **Bristol Junior Algebra and Combinatorics Seminar**\\
+*The probabilistic method in group theory*\\
+University of Bristol\\
+October 2025
+
+[16] **Conference in Theoretical and Computational Algebra**\\
+*Permutation groups, partition lattices, and block structures*\\
+Evora, Portugal\\
+July 2025
+
 [15] **Manchester Algebra Seminar**\\
 *The regularity number of a finite group*\\
 University of Manchester\\
