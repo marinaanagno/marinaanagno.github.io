@@ -12,7 +12,7 @@ joint with R.A. Bailey and Peter J. Cameron\\
 
 [5] [Computing finite index congruences of finitely presented semigroups and monoids](https://arxiv.org/abs/2302.06295) \\
 joint with Reinis Cirpons, James D. Mitchell and Maria Tsalakou\\
-**AMS Mathematics of Computation**
+**AMS Mathematics of Computation**\\
 51 pages, to appear.
 
 [4] [On the regularity number of a finite group and other base-related invariants]([https://arxiv.org/abs/2405.15300](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70035)) \\
