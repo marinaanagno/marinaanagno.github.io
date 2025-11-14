@@ -5,15 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-[6] [Permutation groups, partition lattices and block structures](https://arxiv.org/abs/2409.10461) \\
-joint with R.A. Bailey and Peter J. Cameron\\
-**Forum of Mathematics, Sigma**\\
-52 pages, to appear.
+[7] [On a generalisation of Cameron's base size conjecture](https://arxiv.org/abs/2511.08705)\\
+65 pages, preprint.
 
-[5] [Computing finite index congruences of finitely presented semigroups and monoids](https://arxiv.org/abs/2302.06295) \\
+[6] [Computing finite index congruences of finitely presented semigroups and monoids](https://arxiv.org/abs/2302.06295) \\
 joint with Reinis Cirpons, James D. Mitchell and Maria Tsalakou\\
 **AMS Mathematics of Computation**\\
 51 pages, to appear.
+
+[5] [Permutation groups, partition lattices and block structures](https://arxiv.org/abs/2409.10461) \\
+joint with R.A. Bailey and Peter J. Cameron\\
+**Forum of Mathematics, Sigma** 13 (2025) , e180.
 
 [4] [On the regularity number of a finite group and other base-related invariants]([https://arxiv.org/abs/2405.15300](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70035)) \\
 joint with Timothy C. Burness\\
