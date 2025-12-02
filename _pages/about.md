@@ -17,4 +17,4 @@ For more information about my research and teaching, please see the [Publication
 
 **Address:** Fry Building, School of Mathematics, University of Bristol, Woodland Rd, Bristol, BS8 1UG.
 
-**Office:** 1.23, Fry Building.
+**Office:** 1.14, Fry Building.
