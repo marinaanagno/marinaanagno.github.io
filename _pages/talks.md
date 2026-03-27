@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+[18] **Warwick Junior Algebra Seminar**\\
+*The regularity number of a simple group*\\
+University of Warwick\\
+February 2026
+
 [17] **Bristol Junior Algebra and Combinatorics Seminar**\\
 *The probabilistic method in group theory*\\
 University of Bristol\\
