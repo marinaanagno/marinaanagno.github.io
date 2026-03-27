@@ -17,7 +17,7 @@ I am currently involved in leading support sessions and marking assignments for 
 - MATH33300 Group Theory\\
   Course description: [Module webpage](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=MATH33300)
 
-I will also helped as a demonstrator for the modules:
+I also helped as a demonstrator for the modules:
 
 - MATH30024 Perspectives in Mathematics\\
   Course description [Module webpage](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=23%2F24&unitCode=MATH30024&_gl=1*1656s16*_ga*MTkxOTA2Nzg3Mi4xNjkyNTY3MDI5*_ga_6R8SPL3HLT*MTcwNTQwMTc3Ni4xMS4xLjE3MDU0MDE4NDguNTMuMC4w&_ga=2.134696753.132866933.1705401777-1919067872.1692567029)
