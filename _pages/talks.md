@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+[20] **Rutgers Junior Combinarorics Seminar**
+*Permutation groups, partition lattices and block structures*\\
+Rutgers University\\
+April 2026
+
+[19] **Rutgers Algebra Seminar**\\
+*The regularity number of a simple group*\\
+Rutgers University\\
+April 2026
+
 [18] **Warwick Junior Algebra Seminar**\\
 *The regularity number of a simple group*\\
 University of Warwick\\
