@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 [7] [On a generalisation of Cameron's base size conjecture](https://arxiv.org/abs/2511.08705)\\
-**Journal of the London Mathematical Society**
+**Journal of the London Mathematical Society**\\
 73 pages, to appear.
 
 [6] [Computing finite index congruences of finitely presented semigroups and monoids](https://arxiv.org/abs/2302.06295) \\
