@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+[22] **Heilbronn HDP event**
+*Regular pairs of simple groups*\\
+University of Bristol\\
+July 2026
+
+[21] **Third Conference of Greek Mathematicians**
+*The regularity number of a simple group*\\
+National Kapodistrian University of Athens\\
+July 2026
+
 [20] **Rutgers Junior Combinarorics Seminar**
 *Permutation groups, partition lattices and block structures*\\
 Rutgers University\\
