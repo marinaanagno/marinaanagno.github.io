@@ -11,8 +11,7 @@ author_profile: true
 
 [6] [Computing finite index congruences of finitely presented semigroups and monoids](https://arxiv.org/abs/2302.06295) \\
 joint with Reinis Cirpons, James D. Mitchell and Maria Tsalakou\\
-**AMS Mathematics of Computation**\\
-51 pages, to appear.
+**AMS Mathematics of Computation** 95 (2026), pp. 3101-3172.
 
 [5] [Permutation groups, partition lattices and block structures](https://arxiv.org/abs/2409.10461) \\
 joint with R.A. Bailey and Peter J. Cameron\\
@@ -25,7 +24,7 @@ joint with Timothy C. Burness\\
 
 [3] [Pre-primitive permutation groups](https://www.sciencedirect.com/science/article/pii/S0021869323004593) \\
 joint with Peter J. Cameron and Enoch Suleiman\\
-**Journal of Algebra** 636 (Dec. 2023), pp. 695–715. 
+**Journal of Algebra** 636 (2023), pp. 695–715. 
 
 [2] [Association Schemes with given stratum dimensions: on a paper of Peter M. Neumann](https://alco.centre-mersenne.org/articles/10.5802/alco.307/)\\
 joint with Peter J. Cameron\\
