@@ -19,7 +19,7 @@ I am currently involved in leading support sessions and marking assignments for 
 
 and in TB2 of 2026-27 I will be tutoring:
 
--MATH10011 Analysis\\
+- MATH10011 Analysis\\
 Course description: [Module webpage](https://www.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=26%2F27&unitCode=MATH10011)
 
 I will also help as a demonstrator for the modules:
