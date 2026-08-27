@@ -23,7 +23,7 @@ joint with Timothy C. Burness\\
 
 [3] [Properties of congruence lattices of graph inverse semigroups](https://doi.org/10.1142/S0218196724500139) \\
 joint with Zachary Mesyan and James D. Mitchell\\
-**International Journal of Algebra and Computation** Vol. 34, No. 03, pp. 371-396 (2024)
+**International Journal of Algebra and Computation** 34, (2024), pp. 371-396.
 
 [2] [Pre-primitive permutation groups](https://www.sciencedirect.com/science/article/pii/S0021869323004593) \\
 joint with Peter J. Cameron and Enoch Suleiman\\
@@ -31,6 +31,6 @@ joint with Peter J. Cameron and Enoch Suleiman\\
 
 [1] [Association Schemes with given stratum dimensions: on a paper of Peter M. Neumann](https://alco.centre-mersenne.org/articles/10.5802/alco.307/)\\
 joint with Peter J. Cameron\\
-**Algebraic Combinatorics** Volume 6 (2023) no. 5, pp. 1189-1210.
+**Algebraic Combinatorics** 6 (2023), pp. 1189-1210.
 
 
