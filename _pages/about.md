@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at the [University of Bristol](https://www.bristol.ac.uk/maths/) under the supervision of [Prof. Tim Burness](https://seis.bristol.ac.uk/~tb13602/index.html). My main area of research is group theory. I am particularly interested in problems related to permutation groups, the simple and almost simple groups, and subgroup structure.
+I am a third year PhD student at the [University of Bristol](https://www.bristol.ac.uk/maths/) under the supervision of [Prof. Tim Burness](https://seis.bristol.ac.uk/~tb13602/index.html). My main area of research is group theory. I am particularly interested in problems related to permutation groups, the simple groups, both finite and algebraic, conjugacy classes and subgroup structure.
 
 This year, I was awarded the [Cecil King Travel Scholarship](https://www.lms.ac.uk/prizes/cecil-king-travel-scholarship) by the London Mathematical Society to visit [Prof. Pham Huu Tiep](https://sites.math.rutgers.edu/~pht19/) at [Rutgers University](https://math.rutgers.edu/) throughout April and May 2026.
 
