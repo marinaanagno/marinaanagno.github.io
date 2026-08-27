@@ -21,14 +21,16 @@ joint with Timothy C. Burness\\
 **Journal of the London Mathematical Society** 110 (2024), e70035, 65 pp.\\
 [Supplementary file](https://seis.bristol.ac.uk/~tb13602/docs/regcomp.pdf)
 
-[3] [Pre-primitive permutation groups](https://www.sciencedirect.com/science/article/pii/S0021869323004593) \\
+[3] [Properties of congruence lattices of graph inverse semigroups](https://doi.org/10.1142/S0218196724500139) \\
+joint with Zachary Mesyan and James D. Mitchell\\
+**International Journal of Algebra and Computation** Vol. 34, No. 03, pp. 371-396 (2024)
+
+[2] [Pre-primitive permutation groups](https://www.sciencedirect.com/science/article/pii/S0021869323004593) \\
 joint with Peter J. Cameron and Enoch Suleiman\\
 **Journal of Algebra** 636 (2023), pp. 695–715. 
 
-[2] [Association Schemes with given stratum dimensions: on a paper of Peter M. Neumann](https://alco.centre-mersenne.org/articles/10.5802/alco.307/)\\
+[1] [Association Schemes with given stratum dimensions: on a paper of Peter M. Neumann](https://alco.centre-mersenne.org/articles/10.5802/alco.307/)\\
 joint with Peter J. Cameron\\
-**Algebraic Combinatorics** Volume 6 (2023) no. 5, pp. 1189-1210
+**Algebraic Combinatorics** Volume 6 (2023) no. 5, pp. 1189-1210.
 
-[1] [Properties of congruence lattices of graph inverse semigroups](https://doi.org/10.1142/S0218196724500139) \\
-joint with Zachary Mesyan and James D. Mitchell\\
-**International Journal of Algebra and Computation** Vol. 34, No. 03, pp. 371-396 (2024)
+
