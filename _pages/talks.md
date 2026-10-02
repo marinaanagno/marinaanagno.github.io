@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[23] **Bristol Algebra Seminar**
+[23] **Bristol Algebra Seminar**\\
 *Regular orbits of simple groups*\\
 University of Bristol\\
 September 2026
