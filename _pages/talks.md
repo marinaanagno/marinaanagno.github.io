@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+[23] **Bristol Algebra Seminar**
+*Regular orbits of simple groups*\\
+University of Bristol\\
+September 2026
+
 [22] **Heilbronn HDP event**\\
 *Regular pairs of simple groups*\\
 University of Bristol\\
